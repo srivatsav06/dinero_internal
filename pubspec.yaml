@@ -1,0 +1,42 @@
+name: dinero_internal
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/dinero_internal/assets/images/stroke7.svg
+    - packages/dinero_internal/assets/images/stroke5.svg
+    - packages/dinero_internal/assets/images/stroke3.svg
+    - packages/dinero_internal/assets/images/stroke1.svg
+    - packages/dinero_internal/assets/images/home.svg
+    - packages/dinero_internal/assets/images/path33949.svg
+    - packages/dinero_internal/assets/images/path33948.svg
+    - packages/dinero_internal/assets/images/wallet.svg
+    - packages/dinero_internal/assets/images/rectangle3.png
+    - packages/dinero_internal/assets/images/ellipse739.png
+    - packages/dinero_internal/assets/images/line181.svg
+    - packages/dinero_internal/assets/images/fill1.png
+    - packages/dinero_internal/assets/images/fill4.svg
+    - packages/dinero_internal/assets/images/oval.png
+    - packages/dinero_internal/assets/images/graph.svg
+    - packages/dinero_internal/assets/images/category.svg
+    - packages/dinero_internal/assets/images/ellipse1.png
+    - packages/dinero_internal/assets/images/ellipse2.png
+    - packages/dinero_internal/assets/images/freepikbackgroundsimpleinject32.svg
+    - packages/dinero_internal/assets/images/freepikplantsinject32.svg
+    - packages/dinero_internal/assets/images/vector.svg
+    - packages/dinero_internal/assets/images/group.svg
+    - packages/dinero_internal/assets/images/freepikfloorinject32.svg
